@@ -1,0 +1,13 @@
+h2.intro {
+  font-size: 1.35em;
+  color: red;
+  font-style: italic;
+}
+p.intro {
+  font-weight: bold;
+  color: purple;
+}
+img.intro {
+  height: 300px;
+  width: auto;
+}
